@@ -104,7 +104,7 @@ div#container h3 {font-size: 1.6em;
 
 <!-- フッター -->
 <div id="footer">
-Copyright (C) Muneyoshi Numada, All rights reserved.
+Copyright (C) Ilia, All rights reserved.
 </div>
 
 </div>
